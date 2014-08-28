@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActionBar</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ara">Ara</string>
+    <string name="yenile">Yenile</string>
+    <string-array name="actions">
+        <item >Altın</item>
+        <item >Dolar</item>
+        <item >Borsa</item>
+        <item >Euro</item>
+        
+    </string-array>
+</resources>
